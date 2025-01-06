@@ -1,5 +1,4 @@
 # SmartQueryRAG
-## README for RAG Project
 
 **Overview**
 
